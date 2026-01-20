@@ -23,4 +23,19 @@ Este projeto realiza um estudo comparativo de diversos algoritmos de Machine Lea
 
 ## 📊 Comparativo de Modelos
 A tabela abaixo resume os experimentos realizados e o desempenho relativo de cada abordagem.
+
+## 🤖 Modelos Aplicados
+
+| Modelo Aplicado     | Tipo de Algoritmo        | Desempenho / Status              |
+|---------------------|--------------------------|----------------------------------|
+| Random Forest       | Ensemble (Árvores)       | 🏆 Melhor Resultado              |
+| KNN Regressor       | Baseado em Distância     | ✅ Concluído (Baseline)          |
+| Regressão Linear    | Linear                   | ✅ Concluído (Baseline)          |
+| Decision Tree       | Árvore de Decisão        | ✅ Concluído                     |
+| SVM                 | Vetor de Suporte         | ✅ Concluído                     |
+| AutoML              | Automatizado             | ⚠️ Requer mais recursos         |
+
+
+
+
 </div>
