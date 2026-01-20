@@ -1,4 +1,5 @@
-<div align="center">
+<div align="left">
+  
 ## 🏠 Predição de Preços de Imóveis (King County)
 Este projeto realiza um estudo comparativo de diversos algoritmos de Machine Learning para regressão, utilizando o dataset House Sales in King County, USA. O objetivo é prever o valor de venda de imóveis com base em suas características físicas e localização.
 
