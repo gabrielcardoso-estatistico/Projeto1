@@ -35,6 +35,16 @@ A tabela abaixo resume os experimentos realizados e o desempenho relativo de cad
 | SVM                 | Vetor de Suporte         | ✅ Concluído                     |
 | AutoML              | Automatizado             | ⚠️ Requer mais recursos         |
 
+## 📈 Resultados Finais
+
+| Modelo              | R²       | MAE        | MSE              | RMSE        |
+|---------------------|----------|------------|------------------|-------------|
+| KNN Regressor       | 0.7915   | 93,907     | 28,821,924,310   | 169,770     |
+| Regressão Linear    | 0.7013   | 126,731    | 41,284,147,130   | 203,185     |
+| SVR                 | -0.0510  | 221,281    | 145,268,789,903  | 381,141     |
+| Decision Tree       | 0.7185   | 100,239    | 38,907,246,083   | 197,249     |
+| **Random Forest**   | **0.8800** | **70,005** | **16,585,234,011** | **128,784** |
+
 
 
 
